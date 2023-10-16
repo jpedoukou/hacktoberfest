@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [jpedoukou](https://github.com/jpedoukou)
+- Place: Washington, USA
+- Bio: High school student
+- Github:  [jpedoukou](https://github.com/jpedoukou)
+
+  
